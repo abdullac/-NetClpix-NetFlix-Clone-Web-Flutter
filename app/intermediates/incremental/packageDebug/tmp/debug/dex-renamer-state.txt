@@ -1,4 +1,0 @@
-#Mon Feb 27 19:18:51 IST 2023
-base.0=/home/abdulla/myflutterprojects/netclipxsample/netclipxsample/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
