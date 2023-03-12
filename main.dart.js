@@ -22791,7 +22791,7 @@ this.b=b
 this.c=c},
 Ip:function Ip(a){this.a=a},
 a2G:function a2G(){},
-aN9(){var s=null,r=A.aHI(s,s,new A.lU("assets/NetClipxLogo.png",s,s)),q=A.aR(A.S(s).b*4.8/100,A.S(s).b*10.5/100,A.S(s).b*4.8/100)
+aN9(){var s=null,r=A.aHI(s,s,new A.lU("assets/NetflipzLogo.webp",s,s)),q=A.aR(A.S(s).b*4.8/100,A.S(s).b*10.5/100,A.S(s).b*4.8/100)
 return A.atK(A.ce(A.dr(A.a([new A.r0("Tv Shows",new A.aqz(),s),new A.r0("Movies",new A.aqA(),s),new A.r0("Category",new A.aqB(),s)],t.p),B.c_,B.vb,B.z),q,s),!0,B.oI,new A.rU(r,30,30,s))},
 aqz:function aqz(){},
 aqA:function aqA(){},
@@ -77641,7 +77641,7 @@ A.aq8.prototype={
 $0(){return A.aR(A.S(null).b*6/100,A.S(null).b*10/100,A.S(null).b*5.5/100)},
 $S:57}
 A.aq9.prototype={
-$3(a,b,c){var s,r=this,q=null,p=A.jy(0,b?0:-165,0),o=A.ax(B.d.b2(255*(r.a===!0?0.3:1)),0,0,0),n=A.we(),m=A.mm(q,B.Em,A.S(q).b*4.6/100,new A.aq5(),B.U,q),l=r.c
+$3(a,b,c){var s,r=this,q=null,p=A.jy(0,b?0:-200,0),o=A.ax(B.d.b2(255*(r.a===!0?0.3:1)),0,0,0),n=A.we(),m=A.mm(q,B.Em,A.S(q).b*4.6/100,new A.aq5(),B.U,q),l=r.c
 if(l!=null){s=A.S(q)
 s=A.dr(A.a([A.mm(q,A.oN(l,q,q,q),s.b*4.7/100,new A.aq6(),B.U,q),B.Mb],t.p),B.x,B.G,B.z)
 l=s}else l=B.aY
@@ -77681,7 +77681,7 @@ A.uM.prototype={
 E(a){var s,r,q=this,p=null,o=q.e
 if(o==null)o=B.U
 s=q.f
-s=s!=null?A.ok(B.ct,new A.jA(s),p):A.ok(p,new A.lU("assets/NetClipxLogo.png",p,p),p)
+s=s!=null?A.ok(B.ct,new A.jA(s),p):A.ok(p,new A.lU("assets/NetflipzLogo.webp",p,p),p)
 r=q.r
 return A.cz(p,p,B.n,p,p,new A.cR(p,s,p,B.z4,r==null?A.a([B.n9,B.ek],t.sq):r,p,p,B.ap),p,q.d,o,p,p,p,q.c)}}
 A.AA.prototype={
@@ -77765,7 +77765,7 @@ return A.qZ(new A.agP(this,new A.agT(this),new A.agQ(this),new A.agR()),t.rl,t.s
 A.agT.prototype={
 $1(a){var s=null,r=A.aR(A.S(s).a*30/100,A.S(s).a*7/100,A.S(s).a*12/100),q=a.gkv(),p=this.a,o=p.c
 o===$&&A.b()
-return A.cz(s,s,B.n,s,s,new A.cR(s,J.ay(q,o).gnW()!=null?A.ok(B.ct,new A.jA("https://image.tmdb.org/t/p/w500"+A.i(J.ay(a.gkv(),p.c).gnW())),s):A.ok(B.ct,new A.lU("assets/NetClipxLogo.png",s,s),s),s,B.hs,s,s,s,B.ap),s,s,s,s,s,s,r)},
+return A.cz(s,s,B.n,s,s,new A.cR(s,J.ay(q,o).gnW()!=null?A.ok(B.ct,new A.jA("https://image.tmdb.org/t/p/w500"+A.i(J.ay(a.gkv(),p.c).gnW())),s):A.ok(B.ct,new A.lU("assets/NetflipzLogo.webp",s,s),s),s,B.hs,s,s,s,B.ap),s,s,s,s,s,s,r)},
 $S:95}
 A.agQ.prototype={
 $1(a){var s=null,r=a.gkv(),q=this.a,p=q.c
@@ -78125,7 +78125,7 @@ A.S(a)
 s=A.aR(A.S(o).b*80/100,A.S(o).b*83/100,A.S(o).b*83/100)
 r=A.aR(A.S(o).a,A.S(o).b*75/100,A.S(o).a*60/100)
 q=this.c
-p=J.kh(q.gmE())?A.ok(B.ct,new A.jA("https://image.tmdb.org/t/p/w500"+A.i(J.ay(q.gmE(),$.az8.vr()).geB())),o):A.ok(o,new A.lU("assets/NetClipxLogo.png",o,o),o)
+p=J.kh(q.gmE())?A.ok(B.ct,new A.jA("https://image.tmdb.org/t/p/w500"+A.i(J.ay(q.gmE(),$.az8.vr()).geB())),o):A.ok(o,new A.lU("assets/NetflipzLogo.webp",o,o),o)
 if(q.geh())q=B.bn
 else{q=t.p
 q=A.dg(B.af,A.a([A.kZ(0,A.dr(A.a([A.hf(B.ig,new A.a7c(),"My List"),B.Dz,A.hf(B.E0,new A.a7d(),"Info")],q),B.x,B.vb,B.z),o,o,0,0,o,o)],q),B.v,B.W,o)}return A.cz(o,q,B.n,o,o,new A.cR(o,p,o,o,o,o,o,B.ap),o,s,o,o,o,o,r)}}
